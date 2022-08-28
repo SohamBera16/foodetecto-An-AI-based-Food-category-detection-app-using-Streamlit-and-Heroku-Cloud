@@ -6,4 +6,4 @@
 4. Create a Minimum Viable Product (MVP)
 5. Deployment of the MVP 
 6. creating the demo to show the technical details 
-7. 
+7. Iterative improvements for better results
