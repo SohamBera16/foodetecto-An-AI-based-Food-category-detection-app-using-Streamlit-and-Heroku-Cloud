@@ -1,4 +1,4 @@
-# Image based/text based Popular junk Food intake tracker and/or automated detection for tracking and understanding unhealthy food habits  
+# Image based/text based Popular junk Food intake/Diet tracker and/or automated detection for understanding food habits
 
 1. Ideation - problem detection and solution brainstorming
 2. Research about the state of the art and see how we can innovate or improve upon already existing products 
