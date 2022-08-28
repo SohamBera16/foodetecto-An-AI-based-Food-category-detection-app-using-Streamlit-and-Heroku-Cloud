@@ -12,7 +12,7 @@ Hence, the first and most important step of this process is to make the machines
 Artificial Intelligence (AI)/Deep Learning techniques - in particular, the MobileNet V2 model has been used for implementing transfer learning along with the    Convolutional Neural network (CNN) tech in order to automate the process of food item image detection. Afterwards, Heroku the Heroku platform was utilized to deploy the app into production for the demo of automated image classification results. 
     
  * ### Dataset used: 
- The dataset used for this project has been downloaded from - food 101 small dataset link 
+ The dataset used for this project has been downloaded from - https://www.kaggle.com/datasets/msarmi9/food101tiny
  Some of the example food items to classify are - chocolate cakes, chicken curry, chicken wings, pizza, cup cakes, sandwich, etc. 
     
  * ### Results: 
