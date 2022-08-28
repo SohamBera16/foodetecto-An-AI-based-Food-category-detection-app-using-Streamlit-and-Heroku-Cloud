@@ -23,3 +23,4 @@ Artificial Intelligence (AI)/Deep Learning techniques - in particular, the Mobil
  Some of the example food items to classify are - chocolate cakes, chicken curry, chicken wings, pizza, cup cakes, sandwich, etc. 
     
  * ### Results: 
+ Accuracy of detection achieved on the training dataset is 84.25% which is quite good given that the analysis was performed on a comparatively very small dataset. 
