@@ -1,7 +1,7 @@
 # Image based Popular Food items classification using Deep Learning
 
  * ### Problem Statement : 
- * 
+ 
  * ### Technology Implementation: 
     Artificial Intelligence (AI)/Deep Learning techniques - in particular, the MobileNet V2 model has been used for implementing transfer learning along with the    Convolutional Neural network (CNN) tech in order to automate the process of food items image detection. Afterwards, the Heroku app was utilized to deploy the app into production for the demo of automated image classification results. 
     
