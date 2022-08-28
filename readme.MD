@@ -16,7 +16,7 @@ Hence, the first and most important step of this process is to make the machines
  - *Final working solution*:  As Heroku cloud comes with a 500MB limitation and the new TensorFlow package is 489.6MB. To avoid dependencies and storage issues, I explored and figured out the change in the requirements.txt file which helped to reduce the slugsize in my use case - *Adding tensorflow-cpu instead of tensorflow reduced the slug size from 667.7MB to 377MB.*
  
  * ### Technology Implementation: 
-Artificial Intelligence (AI)/Deep Learning techniques - in particular, the MobileNet V2 model has been used for implementing transfer learning along with the    Convolutional Neural network (CNN) tech in order to automate the process of food item image detection. Afterwards, Heroku the Heroku platform was utilized to deploy the app into production for the demo of automated image classification results. 
+Artificial Intelligence (AI)/Deep Learning techniques - in particular, the MobileNet V2 model has been used for implementing transfer learning along with the    Convolutional Neural network (CNN) tech in order to automate the process of food item image detection. Afterwards, the Heroku platform was utilized to deploy the app into production for the demo of automated image classification results. 
     
  * ### Dataset used: 
  The dataset used for this project has been downloaded from - https://www.kaggle.com/datasets/msarmi9/food101tiny
