@@ -20,7 +20,7 @@ Artificial Intelligence (AI)/Deep Learning techniques - in particular, the Mobil
     
  * ### Dataset used: 
  The dataset used for this project has been downloaded from - https://www.kaggle.com/datasets/msarmi9/food101tiny
- Some of the example food items to classify are - chocolate cakes, chicken curry, chicken wings, pizza, cup cakes, sandwich, etc. 
+ Some of the example food items to classify are - apple pie, ice cream, falafel, etc. 
     
  * ### Results: 
  Accuracy of detection achieved on the training dataset is 84.25% which is quite good given that the analysis was performed on a comparatively very small dataset. 
