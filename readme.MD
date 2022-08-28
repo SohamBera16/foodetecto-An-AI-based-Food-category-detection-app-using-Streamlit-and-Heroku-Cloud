@@ -7,6 +7,11 @@ Hence, the first and most important step of this process is to make the machines
 
  * ### Challenges: 
  Lack of available open-source datasets, tackling the long training time constraints for computationally demanding deep learning tech. 
+ During Deployment: 
+ 1) Resolved python, pip, and tensorflow version incompatibility by performing effective modifications in the requirements.txt file 
+ 
+ 2) Problems with slugsize of the App 
+ Solutions tried: a) usage of .slugignore to delete redundant files during runtime of deployment, b) purging build caches to reduce the slug size , c) using Heroku buildpack for python
  
  * ### Technology Implementation: 
 Artificial Intelligence (AI)/Deep Learning techniques - in particular, the MobileNet V2 model has been used for implementing transfer learning along with the    Convolutional Neural network (CNN) tech in order to automate the process of food item image detection. Afterwards, Heroku the Heroku platform was utilized to deploy the app into production for the demo of automated image classification results. 
