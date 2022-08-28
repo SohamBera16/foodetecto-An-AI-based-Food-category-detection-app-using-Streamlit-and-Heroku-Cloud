@@ -1,4 +1,4 @@
-# Image based Popular Food items classification using Deep Learning and Web application Deployment using Heroku
+# Image based popular food items classification using AI and corresponding Web application deployment for end-users using Heroku
 
  * ### Problem Statement : 
  
