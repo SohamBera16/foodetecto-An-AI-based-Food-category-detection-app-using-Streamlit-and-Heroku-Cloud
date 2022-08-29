@@ -1,6 +1,6 @@
 # Image based popular food items classification using AI and corresponding Web application deployment for end-users using Heroku
 
-![A variety of foods]<img src= "https://github.com/SohamBera16/foodetecto-An-AI-based-Food-category-detection-app-using-Streamlit-and-Heroku-Cloud/blob/main/istockphoto-922783734-612x612.jpg", width="200">
+![A variety of foods](https://github.com/SohamBera16/foodetecto-An-AI-based-Food-category-detection-app-using-Streamlit-and-Heroku-Cloud/blob/main/istockphoto-922783734-612x612.jpg", width="200")
 
  * ### Problem Statement : 
 In today's world, each and every one of us click thousands of images in our daily lives, and one of the most popular categories of these images is *food items*. No matter whether we go to a aesthetically appealing new restaurant or make a delicious meal in our home, we almost always make sure that the memory finds it place in our social media feeds. This massive amount of data can be leveraged by cutting-edge Artificial Intelligence technology to gain insights about the personal as well as regional/global trends of food consumption habits as well as various correlations with other factors. This knowledge can be extremely useful to figure out optimum diet plans, financial plans to tackle the overspending habits on junk foods, and how different food items contribute to the overall obesity factors to maintain our peak biological performance level.
