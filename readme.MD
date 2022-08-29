@@ -25,6 +25,8 @@ Artificial Intelligence (AI)/Deep Learning techniques - in particular, the Incep
  Some of the example food items to classify are - apple pie, ice cream, falafel, etc. 
  
  * ### Demonstration of the app:
+ 
+ ![web app](https://github.com/SohamBera16/foodetecto-An-AI-based-Food-category-detection-app-using-Streamlit-and-Heroku-Cloud/blob/main/streamlit%20web%20app%20deployment%20screenshot.png)
     
  * ### Results: 
  Accuracy of detection achieved on the training dataset is 84.25% which is quite good given that the analysis was performed on a comparatively very small dataset. 
