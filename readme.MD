@@ -16,6 +16,8 @@ Hence, the first and most important step of this process is to make the machines
  Solutions tried: a) usage of .slugignore to delete redundant files during runtime of deployment, b) purging build caches to reduce the slug size , c) using Heroku buildpack for python
  
  - *Final working solution*:  As Heroku cloud comes with a 500MB limitation and the new TensorFlow package is 489.6MB. To avoid dependencies and storage issues, I explored and figured out the change in the requirements.txt file which helped to reduce the slugsize in my use case - *Adding tensorflow-cpu instead of tensorflow reduced the slug size from 667.7MB to 377MB.*
+ 
+
  ![deployment](https://github.com/SohamBera16/foodetecto-An-AI-based-Food-category-detection-app-using-Streamlit-and-Heroku-Cloud/blob/main/app%20deployed.png)
  
  * ### Technology Implementation: 
