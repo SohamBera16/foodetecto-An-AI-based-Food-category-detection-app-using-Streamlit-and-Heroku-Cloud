@@ -33,3 +33,4 @@ Artificial Intelligence (AI)/Deep Learning techniques - in particular, the Incep
     
  * ### Results: 
  Accuracy of detection achieved on the training dataset is 84.25% which is quite good given that the analysis was performed on a comparatively very small dataset. 
+ The validation accuracy achieved in the test dataset was 86.13%. 
