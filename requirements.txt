@@ -1,0 +1,5 @@
+tensorflow-cpu
+pillow==6.2.0
+numpy==1.21.6
+streamlit==0.62.0
+pip
