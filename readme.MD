@@ -36,4 +36,4 @@ Artificial Intelligence (AI)/Deep Learning techniques - in particular, the Incep
  The validation accuracy achieved on the test dataset was 86.13% which is quite good given that the analysis was performed on a comparatively very small dataset. 
 
 ### Future Steps:
-- Deploying the app using 
+- Deploying the app using Docker
