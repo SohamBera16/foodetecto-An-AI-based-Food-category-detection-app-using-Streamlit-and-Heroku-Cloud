@@ -38,3 +38,4 @@ Artificial Intelligence (AI)/Deep Learning techniques - in particular, the Incep
 ### Future Steps:
 - Deploying the app using Docker and Kubernetes
 - Increasing the dataset
+- Testing different deep learning algorithms for better performance 
