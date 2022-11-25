@@ -35,4 +35,8 @@ Artificial Intelligence (AI)/Deep Learning techniques - in particular, the Incep
  Accuracy of detection achieved on the training dataset is 84.25%. 
  The validation accuracy achieved on the test dataset was 86.13% which is quite good given that the analysis was performed on a comparatively very small dataset. 
 
-
+* ### Future Steps:
+- Deploying the app using Docker and Kubernetes
+- Increasing the dataset
+- Testing different deep learning algorithms for better performance 
+- Trying out the effects of various data preprocessing techniques on the final results
